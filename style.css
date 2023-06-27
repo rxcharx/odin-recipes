@@ -1,6 +1,6 @@
 /* index.html */
 
-h1 {
+.home {
     background-color: hsl(40, 100%, 85%);
     color: rgb(200, 100, 30);
     text-align: center;
@@ -9,13 +9,42 @@ h1 {
 
 .meal {
     color: rgb(200, 100, 30);
-}
-
-.text {
     font-weight: bold;
     font-size: 24px;
-    text-align: center;
 }
 
 /* Overnight Oat */
 
+.oats {
+    background-color: rgb(163, 163, 163);
+    color: white;
+    text-align: center;
+}
+
+.oats-img {
+    height: auto;
+    width: 215px;
+}
+
+.oats-div {
+    text-align: center;
+    background-color: rgb(163, 163, 163);
+}
+
+.description {
+    background-color: hsl(0, 25%, 75%);
+    color: hsl(0, 100%, 25%);
+    text-align: center;
+}
+
+.ingredients {
+    background-color: hsl(120, 25%, 75%);
+    color: hsl(120, 100%, 25%);
+    text-align: center;
+}
+
+.steps {
+    background-color: hsl(240, 25%, 75%);
+    color: hsl(240, 100%, 25%);
+    text-align: center;
+}
