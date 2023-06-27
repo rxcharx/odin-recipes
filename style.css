@@ -7,26 +7,26 @@
     font-size: 44px;
 }
 
-.meal {
+.meal-link {
     color: rgb(200, 100, 30);
     font-weight: bold;
     font-size: 24px;
 }
 
-/* Overnight Oat */
+/* Meals */
 
-.oats {
+.meal-title {
     background-color: rgb(163, 163, 163);
     color: white;
     text-align: center;
 }
 
-.oats-img {
+.meal-img {
     height: auto;
     width: 215px;
 }
 
-.oats-div {
+.meal-div {
     text-align: center;
     background-color: rgb(163, 163, 163);
 }
